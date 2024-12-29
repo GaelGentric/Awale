@@ -1,0 +1,14 @@
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\bin\Debug\net7.0\Awale.exe
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\bin\Debug\net7.0\Awale.deps.json
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\bin\Debug\net7.0\Awale.runtimeconfig.json
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\bin\Debug\net7.0\Awale.dll
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\bin\Debug\net7.0\Awale.pdb
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\Awale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\Awale.AssemblyInfoInputs.cache
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\Awale.AssemblyInfo.cs
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\Awale.csproj.CoreCompileInputs.cache
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\Awale.dll
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\refint\Awale.dll
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\Awale.pdb
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\Awale.genruntimeconfig.cache
+C:\Users\citan\Epita\PersonalProject\AwaleProject\Awale\obj\Debug\net7.0\ref\Awale.dll
